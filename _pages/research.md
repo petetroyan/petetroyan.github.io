@@ -55,7 +55,7 @@ author_profile: true
 
 * [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with Marek Pycia)
 
-  second revise and resubmit, _**Econometrica**_
+  _**Econometrica**_, second revise and resubmit
 
   -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_
   
