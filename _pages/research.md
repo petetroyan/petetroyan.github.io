@@ -1,23 +1,22 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Publications"
 author_profile: true
 ---
 
-# Publications
-
 * [School Choice with Asymmetric Information: Priority Design and the Curse of Acceptance ](http://petetroyan.github.io/files/Kloosterman_Troyan_Information.pdf) (with Andrew Kloosterman)
-
-**Theoretical Economics** (2020), 15(3):1095-1133 
+  
+  **Theoretical Economics** (2020), 15(3):1095-1133 
 
 * [Essentially Stable Matchings](http://petetroyan.github.io/files/TDK_Essential_Stability.pdf) (with David Delacretaz and Andrew Kloosterman)
 
-**Games and Economic Behavior** (2020), 120:370-390
+  **Games and Economic Behavior** (2020), 120:370-390
 
-* [Obvious Manipulations](http://petetroyan.github.io/files/Obvious_Manipulations.pdf)  (with Thayer Morrill)
+* [Obvious Manipulations](http://petetroyan.github.io/files/Obvious_Manipulations.pdf) (with Thayer Morrill)
 
  **Journal of Economic Theory** (2020), 185 
- ** Abstract appears in the Proceedings of the 20th ACM Conference on Economics
+ 
+ -** Abstract appears in the Proceedings of the 20th ACM Conference on Economics
 and Computation (EC19)
 
 * [Obviously Strategy-Proof Implementation of Top Trading Cycles] 
