@@ -14,10 +14,9 @@ author_profile: true
 
 * [Obvious Manipulations](http://petetroyan.github.io/files/Obvious_Manipulations.pdf) (with Thayer Morrill)
 
- _**Journal of Economic Theory**_ (2020), 185 
+  _**Journal of Economic Theory**_ (2020), 185 
  
- -** Abstract appears in the Proceedings of the 20th ACM Conference on Economics
-and Computation (EC19)
+ -**Abstract appears in the Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**
 
 * [Obviously Strategy-Proof Implementation of Top Trading Cycles] 
 
