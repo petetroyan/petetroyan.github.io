@@ -2,21 +2,9 @@
 main:
   - title: "Research"
     url: /research/
-
-  - #title: "Talks"
-    url: /talks/    
-
-  - #title: "Teaching"
-    url: /teaching/    
-    
-  - #title: "Portfolio"
-    url: /portfolio/
-        
-  - #title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
-    url: /files/cv.pdf
+    url: https://www.dropbox.com/s/jskgv8psv7hbzq1/Troyan_CV.pdf?dl=0
     
   - #title: "Guide"
     url: /markdown/
