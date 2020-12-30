@@ -16,7 +16,7 @@ author_profile: true
 
   _**Journal of Economic Theory**_ (2020), 185 
  
- -**Abstract appears in the Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**
+  -Abstract appears in the Proceedings of the 20th ACM Conference on Economics and Computation (EC19)
 
 * [Obviously Strategy-Proof Implementation of Top Trading Cycles] 
 
