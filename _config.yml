@@ -83,7 +83,7 @@ author:
   name             : "Peter Troyan"
   avatar           : "profile.png"
   bio              : "Associate Professor of Economics"
-  location         : "Charlottesville"
+  location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=qD72wFgAAAAJ&hl=en"
@@ -187,6 +187,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  contact:
+    output: true
+    permalink: /:collection/:path/
+	
 
 
 # Defaults
