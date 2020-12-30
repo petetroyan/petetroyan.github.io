@@ -58,7 +58,9 @@ author_profile: true
   second revise and resubmit, _**Econometrica**_
 
   -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_
+  
   -Exemplary Theory Paper at _**20th ACM Conference on Economics and Computation (EC19)**_
+  
   -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
 
 This paper was previously circulated under the title ``Obvious Dominance and Random Priority''
