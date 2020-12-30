@@ -14,7 +14,7 @@ author_profile: true
 
 **Games and Economic Behavior** (2020), 120:370-390
 
-* [Obvious Manipulations] (with Thayer Morrill)
+* [Obvious Manipulations](http://petetroyan.github.io/files/Obvious_Manipulations.pdf)  (with Thayer Morrill)
 
  **Journal of Economic Theory** (2020), 185 
  ** Abstract appears in the Proceedings of the 20th ACM Conference on Economics
