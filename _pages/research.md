@@ -63,4 +63,4 @@ author_profile: true
   
   -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
 
-This paper was previously circulated under the title ``Obvious Dominance and Random Priority''
+This paper was previously circulated under the title "Obvious Dominance and Random Priority"
