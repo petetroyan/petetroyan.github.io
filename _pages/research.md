@@ -16,11 +16,11 @@ author_profile: true
 
   _**Journal of Economic Theory**_ (2020), 185 
  
-  -Abstract appears in the Proceedings of the 20th ACM Conference on Economics and Computation (EC19)
+  -Abstract appears in the _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
 
-* [Obviously Strategy-Proof Implementation of Top Trading Cycles] 
+* [Obviously Strategy-Proof Implementation of Top Trading Cycles](http://petetroyan.github.io/files/Troyan-OSP-TTC.pdf)
 
-**International Economic Review** (2019), 60(3)
+  _**International Economic Review**_ (2019), 60(3)
 
 * [Designing Mechanisms to Focalize Welfare-Improving Strategies] (with Daniel Fragiadakis)
 
