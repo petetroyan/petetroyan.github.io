@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 Peter Troyan
-<p style="line-height: 0.6;">
+<p style="line-height: 2;">
 
 Department of Economics
 
