@@ -4,7 +4,7 @@ main:
     url: /research/
     
   - title: "CV"
-    url: https://www.dropbox.com/s/jskgv8psv7hbzq1/Troyan_CV.pdf?dl=0
+    url: /files/Troyan_CV.pdf
   
   - title: "Contact"
     url: /contact/  
