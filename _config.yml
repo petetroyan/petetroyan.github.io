@@ -86,7 +86,7 @@ author:
   location         : "University of Virginia"
   employer         : "Charlottesville, VA"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=qD72wFgAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=qD72wFgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
