@@ -64,3 +64,11 @@ author_profile: true
   -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
 
 This paper was previously circulated under the title "Obvious Dominance and Random Priority"
+
+# Works in Progress
+
+*Strategy-proof, Pareto efficient, and fair mechanisms for object allocation (with Marek Pycia) 
+
+*Millipedes: A Toolkit for Simple Mechanism Design (with Marek Pycia)
+
+*Ranking Objects that Rank Back (with Thayer Morrill)
