@@ -69,6 +69,4 @@ This paper was previously circulated under the title "Obvious Dominance and Rand
 
 * Millipedes: A Toolkit for Simple Mechanism Design (joint with Marek Pycia)
 
-* Ranking Objects that Rank Back (joint with Thayer Morrill)
-
 * Strategy-proof, Pareto efficient, and fair mechanisms for object allocation (joint with Marek Pycia) 
