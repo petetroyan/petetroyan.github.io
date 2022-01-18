@@ -65,7 +65,7 @@ author_profile: true
 
 This paper was previously circulated under the title "Obvious Dominance and Random Priority"
 
-* [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troya-RP.pdf) (joint with Marek Pycia) 
+* [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (joint with Marek Pycia) 
 
 # Works in Progress
 
