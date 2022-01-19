@@ -4,15 +4,15 @@ title: "Publications"
 author_profile: true
 ---
 
-* [School Choice with Asymmetric Information: Priority Design and the Curse of Acceptance ](http://petetroyan.github.io/files/Kloosterman_Troyan_Information.pdf) (with Andrew Kloosterman)
+* [School Choice with Asymmetric Information: Priority Design and the Curse of Acceptance ](http://petetroyan.github.io/files/Kloosterman_Troyan_Information.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
   
   _**Theoretical Economics**_ (2020), 15(3):1095-1133 
 
-* [Essentially Stable Matchings](http://petetroyan.github.io/files/TDK_Essential_Stability.pdf) (with David Delacretaz and Andrew Kloosterman)
+* [Essentially Stable Matchings](http://petetroyan.github.io/files/TDK_Essential_Stability.pdf) (with [David Delacr\'{e}taz](https://daviddelacretaz.net/) and [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
   _**Games and Economic Behavior**_ (2020), 120:370-390
 
-* [Obvious Manipulations](http://petetroyan.github.io/files/Obvious_Manipulations.pdf) (with Thayer Morrill)
+* [Obvious Manipulations](http://petetroyan.github.io/files/Obvious_Manipulations.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
   _**Journal of Economic Theory**_ (2020), 185 
  
@@ -53,7 +53,7 @@ author_profile: true
 
 # Working Papers
 
-* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with Marek Pycia)
+* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
   _**Econometrica**_, second revise and resubmit
 
@@ -65,10 +65,10 @@ author_profile: true
 
 This paper was previously circulated under the title "Obvious Dominance and Random Priority"
 
-* [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (joint with Marek Pycia) 
+* [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Works in Progress
 
-* Millipedes: A Toolkit for Simple Mechanism Design (joint with Marek Pycia)
+* Millipedes: A Toolkit for Simple Mechanism Design (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 
