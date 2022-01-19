@@ -8,7 +8,7 @@ author_profile: true
   
   _**Theoretical Economics**_ (2020), 15(3):1095-1133 
 
-* [Essentially Stable Matchings](http://petetroyan.github.io/files/TDK_Essential_Stability.pdf) (with [David Delacr\'{e}taz](https://daviddelacretaz.net/) and [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
+* [Essentially Stable Matchings](http://petetroyan.github.io/files/TDK_Essential_Stability.pdf) (with [David Delacrétaz](https://daviddelacretaz.net/) and [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
   _**Games and Economic Behavior**_ (2020), 120:370-390
 
