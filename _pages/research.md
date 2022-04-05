@@ -71,4 +71,8 @@ This paper was previously circulated under the title "Obvious Dominance and Rand
 
 * Millipedes: A Toolkit for Simple Mechanism Design (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
+* Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
+
+* Rankings-Dependent Preferences: An Experimental Study of Allocation Mechanisms (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
+
 
