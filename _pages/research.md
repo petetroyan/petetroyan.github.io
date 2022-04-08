@@ -73,6 +73,6 @@ author_profile: true
 
 * Millipedes: A Toolkit for Simple Mechanism Design (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
-* Rankings-Dependent Preferences: An Experimental Study of Allocation Mechanisms (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
+* Rankings-Dependent Preferences: An Real-Goods Experiment of Allocation Mechanisms (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
 
