@@ -63,15 +63,15 @@ author_profile: true
   
   -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
 
-This paper was previously circulated under the title "Obvious Dominance and Random Priority"
+  -This paper was previously circulated under the title "Obvious Dominance and Random Priority"
+
+* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process]((http://petetroyan.github.io/files/Morrill-Troyan-Rankings.pdf)) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
 * [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Works in Progress
 
 * Millipedes: A Toolkit for Simple Mechanism Design (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/))
-
-* Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
 * Rankings-Dependent Preferences: An Experimental Study of Allocation Mechanisms (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
