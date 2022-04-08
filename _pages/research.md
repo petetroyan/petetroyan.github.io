@@ -65,7 +65,7 @@ author_profile: true
 
   -This paper was previously circulated under the title "Obvious Dominance and Random Priority"
 
-* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process]((http://petetroyan.github.io/files/Morrill-Troyan-Rankings.pdf)) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
+* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/Morrill-Troyan-Rankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
 * [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
