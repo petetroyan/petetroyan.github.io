@@ -67,11 +67,11 @@ author_profile: true
 
 * [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/Morrill-Troyan-Rankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
-* [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
+* [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Works in Progress
 
-* Millipedes: A Toolkit for Simple Mechanism Design (joint with [Marek Pycia](https://econsites.uzh.ch/pycia/))
+* Millipedes: A Toolkit for Simple Mechanism Design (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 * Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
