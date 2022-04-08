@@ -57,7 +57,7 @@ author_profile: true
 
   _**Econometrica**_, second revise and resubmit
 
-  -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_ (watch the [talk here[(https://www.youtube.com/watch?v=rxKPHUbtQ_g&list=PLI0o-KVQWwQ8iRK0DtvpcPkE2be_stiLB&index=3&ab_channel=ACMSIGecom))
+  -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_ (watch the [talk here](https://www.youtube.com/watch?v=rxKPHUbtQ_g&list=PLI0o-KVQWwQ8iRK0DtvpcPkE2be_stiLB&index=3&ab_channel=ACMSIGecom))
   
   -Exemplary Theory Paper at _**20th ACM Conference on Economics and Computation (EC19)**_
   
