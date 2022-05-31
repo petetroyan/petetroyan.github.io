@@ -4,6 +4,18 @@ title: "Publications"
 author_profile: true
 ---
 
+* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
+
+ conditionally accepted at _**Econometrica**_
+ 
+  -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_ (watch the [talk here](https://www.youtube.com/watch?v=rxKPHUbtQ_g&list=PLI0o-KVQWwQ8iRK0DtvpcPkE2be_stiLB&index=3&ab_channel=ACMSIGecom))
+  
+  -Exemplary Theory Paper at _**20th ACM Conference on Economics and Computation (EC19)**_
+  
+  -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
+
+  -This paper was previously circulated under the title "Obvious Dominance and Random Priority"
+
 * [School Choice with Asymmetric Information: Priority Design and the Curse of Acceptance ](http://petetroyan.github.io/files/Kloosterman_Troyan_Information.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
   
   _**Theoretical Economics**_ (2020), 15(3):1095-1133 
@@ -52,18 +64,6 @@ author_profile: true
   _**Japanese Economic Review**_ (2011), 62:82-98 (refereed survey article)
 
 # Working Papers
-
-* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
-
-  _**Econometrica**_, second revise and resubmit
-
-  -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_ (watch the [talk here](https://www.youtube.com/watch?v=rxKPHUbtQ_g&list=PLI0o-KVQWwQ8iRK0DtvpcPkE2be_stiLB&index=3&ab_channel=ACMSIGecom))
-  
-  -Exemplary Theory Paper at _**20th ACM Conference on Economics and Computation (EC19)**_
-  
-  -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
-
-  -This paper was previously circulated under the title "Obvious Dominance and Random Priority"
 
 * [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/Morrill-Troyan-Rankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
