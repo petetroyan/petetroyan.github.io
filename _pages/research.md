@@ -65,6 +65,8 @@ author_profile: true
 
 * [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/Morrill-Troyan-Rankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
+-Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
+
 * [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf) 
  
 * [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
