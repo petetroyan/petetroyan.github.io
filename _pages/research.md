@@ -71,7 +71,7 @@ author_profile: true
 
 * [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf) 
  
-* [Strategy-proof, Pareto efficient, and fair mechanisms for object allocation](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
+* [Strategyproof, Pareto Efficient, and Fair Alloaction: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Works in Progress
 
