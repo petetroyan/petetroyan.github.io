@@ -71,9 +71,11 @@ author_profile: true
 
 * [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf) 
  
-* [Strategyproof, Pareto Efficient, and Fair Alloaction: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
+* [Strategyproof, Pareto Efficient, and Fair Allocation: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Works in Progress
+
+* The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 * Millipedes: A Toolkit for Simple Mechanism Design (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
