@@ -16,7 +16,7 @@ author_profile: true
 
 * [Rankings-Dependent Preferences: A Real Goods Matching Experiment](https://doi.org/10.1145/3580507.3597766), with Andrew Kloosterman
 
-  _**EC '23: Proceedings of the 24th ACM Conference and Computation**_ (2023) (extended abstract)
+   _**EC '23: Proceedings of the 24th ACM Conference and Computation**_ (2023) (extended abstract)
 
 * [Desirable Rankings: A New Method for Ranking Outcomes of a Competitive Process](https://doi.org/10.1145/3490486.3538272), with Thayer Morrill
 
