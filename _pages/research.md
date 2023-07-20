@@ -14,11 +14,11 @@ author_profile: true
 
   -This paper was previously circulated under the title "Obvious Dominance and Random Priority"
 
-* [Rankings-Dependent Preferences: A Real Goods Matching Experiment](https://doi.org/10.1145/3580507.3597766) ([Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
+* [Rankings-Dependent Preferences: A Real Goods Matching Experiment](https://doi.org/10.1145/3580507.3597766) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
    _**EC '23: Proceedings of the 24th ACM Conference and Computation**_ (2023) (extended abstract)
 
-* [Desirable Rankings: A New Method for Ranking Outcomes of a Competitive Process](https://doi.org/10.1145/3490486.3538272) ([Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
+* [Desirable Rankings: A New Method for Ranking Outcomes of a Competitive Process](https://doi.org/10.1145/3490486.3538272) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
   _**EC '22: Proceedings of the 23rd ACM Conference on Economics and Computation**_ (2022) (extended abstract) 
 
