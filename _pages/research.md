@@ -73,6 +73,8 @@ author_profile: true
 
 * [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
+  -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
+
 * [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/Morrill-Troyan-Rankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
   -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
