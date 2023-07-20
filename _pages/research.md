@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), forthcoming at _**Econometrica**_
+*  [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), forthcoming at _**Econometrica**_
  
   -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_ (watch the [talk here](https://www.youtube.com/watch?v=rxKPHUbtQ_g&list=PLI0o-KVQWwQ8iRK0DtvpcPkE2be_stiLB&index=3&ab_channel=ACMSIGecom))
   
