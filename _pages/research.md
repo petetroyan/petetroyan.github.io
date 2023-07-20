@@ -14,7 +14,7 @@ author_profile: true
 
   -This paper was previously circulated under the title "Obvious Dominance and Random Priority"
 
-[Rankings-Dependent Preferences: A Real Goods Matching Experiment](https://doi.org/10.1145/3580507.3597766), with Andrew Kloosterman
+* [Rankings-Dependent Preferences: A Real Goods Matching Experiment](https://doi.org/10.1145/3580507.3597766), with Andrew Kloosterman
 
   _**EC '23: Proceedings of the 24th ACM Conference and Computation**_ (2023) (extended abstract)
 
