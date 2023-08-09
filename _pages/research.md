@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-ECMA.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) [Supplementary Appendix](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-SupApp.pdf)
+* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-ECMA.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) [Supplementary Appendix](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-SuppApp.pdf)
   
   _**Econometrica**_ (2023), 91(4):1495-1526
  
