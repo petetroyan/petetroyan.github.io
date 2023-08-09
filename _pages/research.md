@@ -4,15 +4,15 @@ title: "Publications"
 author_profile: true
 ---
 
-* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-Simplicity.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), forthcoming at _**Econometrica**_
+* [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-ECMA.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) [Supplementary Appendix](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-SupApp.pdf)
+  
+  _**Econometrica**_ (2023), 91(4):1495-1526
  
-  -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_ (watch the [talk here](https://www.youtube.com/watch?v=rxKPHUbtQ_g&list=PLI0o-KVQWwQ8iRK0DtvpcPkE2be_stiLB&index=3&ab_channel=ACMSIGecom))
+    -Best Paper Award at _**20th ACM Conference on Economics and Computation (EC19)**_ (watch the [talk here](https://www.youtube.com/watch?v=rxKPHUbtQ_g&list=PLI0o-KVQWwQ8iRK0DtvpcPkE2be_stiLB&index=3&ab_channel=ACMSIGecom))
   
-  -Exemplary Theory Paper at _**20th ACM Conference on Economics and Computation (EC19)**_
+    -Exemplary Theory Paper at _**20th ACM Conference on Economics and Computation (EC19)**_
   
-  -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
-
-  -This paper was previously circulated under the title "Obvious Dominance and Random Priority"
+    -Abstract appears in _**Proceedings of the 20th ACM Conference on Economics and Computation (EC19)**_
 
 * [Rankings-Dependent Preferences: A Real Goods Matching Experiment](https://doi.org/10.1145/3580507.3597766) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
