@@ -79,7 +79,7 @@ author_profile: true
 
   -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
 
-* [Millipedes: A Toolkit for Simple Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-General-OSP-2023Oct.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
+* [Obviously Strategyproof Mechanisms in General Environments](http://petetroyan.github.io/files/Pycia-Troyan-General-OSP-2023Oct.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 * [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf) 
  
