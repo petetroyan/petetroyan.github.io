@@ -70,6 +70,7 @@ author_profile: true
   _**Japanese Economic Review**_ (2011), 62:82-98 (refereed survey article)
 
 # Working Papers
+* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf), revise and resubmit at _Journal of Mathematical Economics_ 
 
 * [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
@@ -81,8 +82,6 @@ author_profile: true
 
 * [Obviously Strategyproof Mechanisms in General Environments](http://petetroyan.github.io/files/Pycia-Troyan-General-OSP-2023Oct.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
-* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf) 
- 
 * [Strategyproof, Pareto Efficient, and Fair Allocation: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Works in Progress
