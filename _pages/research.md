@@ -72,11 +72,11 @@ author_profile: true
 # Working Papers
 * [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf), revise and resubmit at _**Journal of Mathematical Economics**_ 
 
-* [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
+* [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), under review
 
   -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
 
-* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
+* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), under review
 
   -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
 
