@@ -18,10 +18,6 @@ author_profile: true
 
 * [Strategyproof, Pareto Efficient, and Fair Allocation: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
-# Works in Progress
-
-* The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
-
 # Publications
 
 * [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-ECMA.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) [Supplementary Appendix](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-SuppApp.pdf)
@@ -89,6 +85,8 @@ author_profile: true
 
   _**Japanese Economic Review**_ (2011), 62:82-98 (refereed survey article)
 
+# Other Works in Progress
 
+* The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 
