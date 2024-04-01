@@ -1,8 +1,28 @@
 ---
 permalink: /research/
-title: "Publications"
+title: "Working Papers"
 author_profile: true
 ---
+
+* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), revise and resubmit at _**Econometrica**_ 
+
+  -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
+
+* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf), revise and resubmit at _**Journal of Mathematical Economics**_ 
+
+* [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), under review
+
+  -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
+
+* [Obviously Strategyproof Mechanisms in General Environments](http://petetroyan.github.io/files/Pycia-Troyan-General-OSP-2023Oct.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
+
+* [Strategyproof, Pareto Efficient, and Fair Allocation: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
+
+# Works in Progress
+
+* The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
+
+# Publications
 
 * [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-ECMA.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) [Supplementary Appendix](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-SuppApp.pdf)
   
@@ -69,24 +89,6 @@ author_profile: true
 
   _**Japanese Economic Review**_ (2011), 62:82-98 (refereed survey article)
 
-# Working Papers
-* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf), revise and resubmit at _**Journal of Mathematical Economics**_ 
-
-* [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), under review
-
-  -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
-
-* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), under review
-
-  -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
-
-* [Obviously Strategyproof Mechanisms in General Environments](http://petetroyan.github.io/files/Pycia-Troyan-General-OSP-2023Oct.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
-
-* [Strategyproof, Pareto Efficient, and Fair Allocation: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
-
-# Works in Progress
-
-* The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 
 
