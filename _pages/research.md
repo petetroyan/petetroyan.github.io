@@ -22,7 +22,7 @@ author_profile: true
 
 * [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](http://petetroyan.github.io/files/RM_Non_OM.pdf)
 
-  _**Journal of Mathematical Economics**_ (2024), forthcoming
+  _**Journal of Mathematical Economics**_ (2024), 113:103015 [(journal version)](https://doi.org/10.1016/j.jmateco.2024.103015)
 
 * [A Theory of Simplicity in Games and Mechanism Design](http://petetroyan.github.io/files/Pycia-Troyan-ECMA.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) [Supplementary Appendix](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-SuppApp.pdf)
   
