@@ -87,7 +87,7 @@ author_profile: true
 
 * [Matching and Market Design: An Introduction to Selected Topics](http://dx.doi.org/10.1111/j.1468-5876.2010.00525.x) (with Fuhito Kojima)
 
-  _**Japanese Economic Review**_ (2011), 62:82-98 (refereed survey article; ([journal version][https://doi.org/10.1016/j.jmateco.2024.103015](http://dx.doi.org/10.1111/j.1468-5876.2010.00525.x))
+  _**Japanese Economic Review**_ (2011), 62:82-98 (refereed survey article; ([journal version](http://dx.doi.org/10.1111/j.1468-5876.2010.00525.x))
 
 # Other Works in Progress
 
