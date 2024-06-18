@@ -20,7 +20,7 @@ author_profile: true
 
 # Publications
 
-* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](https://github.com/petetroyan/petetroyan.github.io/1-s2.0-S0304406824000752-main.pdf)
+* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](https://github.com/petetroyan/petetroyan.github.io/RM_Non_OM.pdf)
 
   _**Journal of Mathematical Economics**_ (2024), 113:103015 
 
