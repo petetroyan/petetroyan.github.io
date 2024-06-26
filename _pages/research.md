@@ -8,7 +8,7 @@ author_profile: true
 
   -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
 
-
+* [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 * [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), under review
 
@@ -20,7 +20,7 @@ author_profile: true
 
 # Publications
 
-* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](https://github.com/petetroyan/petetroyan.github.io/files/RM_Non_OM.pdf)
+* [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](https:///petetroyan.github.io/files/RM_Non_OM.pdf)
 
   _**Journal of Mathematical Economics**_ (2024), 113:103015 
 
@@ -89,8 +89,6 @@ author_profile: true
 
   _**Japanese Economic Review**_ (2011), 62:82-98 (refereed survey article)
 
-# Other Works in Progress
 
-* The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 
