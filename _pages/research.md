@@ -10,7 +10,7 @@ author_profile: true
 
 * [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), under review
 
-* [Rankings-Dependent Preferences: A Real-Goods Experiment of Allocation Mechanisms](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), under review
+* [Rankings-Dependent Preferences: A Real-Goods Experiment Matching Experiment](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), under review
 
   -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
 
