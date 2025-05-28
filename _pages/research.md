@@ -10,15 +10,16 @@ author_profile: true
 
 * [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), revise and resubmit at _**Econometrica**_ 
 
-* [Rankings-Dependent Preferences: A Real-Goods Experiment Matching Experiment](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), under review
-
-  -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
 
 * [Obviously Strategyproof Mechanisms in General Environments](http://petetroyan.github.io/files/Pycia-Troyan-General-OSP-2023Oct.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
 * [Strategyproof, Pareto Efficient, and Fair Allocation: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Publications
+
+* [Rankings-Dependent Preferences: A Real-Goods Experiment Matching Experiment](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), accepted subject to minor revisions at _**Games and Economic Behavior**_
+
+  -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
 
 * [Non-Obvious Manipulability of the Rank-Minimizing Mechanism](https:///petetroyan.github.io/files/RM_Non_OM.pdf)
 
