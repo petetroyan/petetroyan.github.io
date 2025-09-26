@@ -10,7 +10,7 @@ author_profile: true
 
 * [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), revise and resubmit at _**Econometrica**_ 
 
-* [Prices and Prestige: The Connection Between Desirable Rankings and Competitive Equilibria](http://petetroyan.github.io/files/CE-Rankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), revise and resubmit at _**Econometrica**_ 
+* [Prices and Prestige: The Connection Between Desirable Rankings and Competitive Equilibria](http://petetroyan.github.io/files/CE-Rankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
 * [Obviously Strategyproof Mechanisms in General Environments](http://petetroyan.github.io/files/Pycia-Troyan-General-OSP-2023Oct.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/))
 
