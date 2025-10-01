@@ -4,7 +4,7 @@ title: "Working Papers"
 author_profile: true
 ---
 
-* [Desirable Rankings: A New Method for Ranking Outcomes of A Competitive Process](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), revise and resubmit at _**Econometrica**_ 
+* [Desirable Rankings](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), revise and resubmit at _**Econometrica**_ 
 
   -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
 
