@@ -6,8 +6,6 @@ author_profile: true
 
 * [Desirable Rankings](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), revise and resubmit at _**Econometrica**_ 
 
-  -Abstract appears in _**Proceedings of the 23rd ACM Conference on Economics and Computation (EC22)**_
-
 * [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), revise and resubmit at _**Econometrica**_ 
 
 * [Prices and Prestige: The Connection Between Desirable Rankings and Competitive Equilibria](http://petetroyan.github.io/files/CE-Rankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
@@ -18,7 +16,7 @@ author_profile: true
 
 # Publications
 
-* [Rankings-Dependent Preferences: A Real-Goods Matching Experiment](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), accepted subject to minor revisions at _**Games and Economic Behavior**_
+* [Rankings-Dependent Preferences: A Real-Goods Matching Experiment](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)), accepted at _**Games and Economic Behavior**_
 
   -Abstract appears in _**Proceedings of the 24th ACM Conference on Economics and Computation (EC23)**_
 
