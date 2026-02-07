@@ -16,7 +16,7 @@ author_profile: true
 
 # Publications
 
-* [Rankings-Dependent Preferences: A Real-Goods Matching Experiment](http://petetroyan.github.io/files/Kloosterman-Troyan-Rankings-Dependence.pdf) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
+* [Rankings-Dependent Preferences: A Real-Goods Matching Experiment](https://doi.org/10.1016/j.geb.2025.10.008) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman))
 
   _**Games and Economic Behavior**_ (2026), 155:167-191
 
