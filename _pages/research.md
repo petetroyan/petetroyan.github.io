@@ -3,10 +3,9 @@ permalink: /research/
 title: "Working Papers"
 author_profile: true
 ---
+* [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), conditionally accepted at _**Econometrica**_ 
 
-* [Desirable Rankings](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), revise and resubmit at _**Econometrica**_ 
-
-* [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), revise and resubmit at _**Econometrica**_ 
+* [Desirable Rankings](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
 * [Prices and Prestige: The Connection Between Desirable Rankings and Competitive Equilibria](http://petetroyan.github.io/files/CE-Rankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
