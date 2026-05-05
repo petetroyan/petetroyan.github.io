@@ -2,8 +2,7 @@
 permalink: /research/
 title: "Working Papers"
 author_profile: true
----
-* [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), conditionally accepted at _**Econometrica**_ 
+--- 
 
 * [Desirable Rankings](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
@@ -14,6 +13,7 @@ author_profile: true
 * [Strategyproof, Pareto Efficient, and Fair Allocation: Beyond Random Priority](http://petetroyan.github.io/files/Pycia-Troyan-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) 
 
 # Publications
+* [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-RP-Characterization.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)), forthcoming at _**Econometrica**_
 
 * [Rankings-Dependent Preferences: A Real-Goods Matching Experiment](https://doi.org/10.1016/j.geb.2025.10.008) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)) [Working paper version](http://petetroyan.github.io/files/Kloosterman-Troyan-WP-Version.pdf)
 
