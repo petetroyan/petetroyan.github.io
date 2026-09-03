@@ -4,7 +4,7 @@ title: "Working Papers"
 author_profile: true
 --- 
 
-* [Desirable Rankings](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
+* [Desirable Rankings](http://petetroyan.github.io/files/DesirableRankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/)), revise and resubmit at the _**American Economic Review**_
 
 * [Prices and Prestige: The Connection Between Desirable Rankings and Competitive Equilibria](http://petetroyan.github.io/files/CE-Rankings.pdf) (with [Gaurab Aryal](https://sites.google.com/site/gaurabaryal) and [Thayer Morrill](https://thayermorrill.wordpress.ncsu.edu/))
 
