@@ -15,7 +15,7 @@ author_profile: true
 # Publications
 * [The Random Priority Mechanism is Uniquely Simple, Efficient, and Fair](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-RP.pdf) (with [Marek Pycia](https://econsites.uzh.ch/pycia/)) [Supplemental Material](http://petetroyan.github.io/files/Pycia-Troyan-ECMA-RP-Supp.pdf)
 
-_**Econometrica**_ (2026), 94(5):1603-1650
+  _**Econometrica**_ (2026), 94(5):1603-1650
 
 * [Rankings-Dependent Preferences: A Real-Goods Matching Experiment](https://doi.org/10.1016/j.geb.2025.10.008) (with [Andrew Kloosterman](https://sites.google.com/view/andrewkloosterman)) [Working paper version](http://petetroyan.github.io/files/Kloosterman-Troyan-WP-Version.pdf)
 
